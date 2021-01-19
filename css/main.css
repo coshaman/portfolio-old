@@ -7,6 +7,8 @@
 	  src: url('../fonts/BMJUA_ttf.ttf');
 }
 
+@font-face { font-family: 'HSBombaram3_Regular'; src: url('https://github.com/projectnoonnu/noonfonts_20-10/blob/main/HSBombaram3_Regular.woff') format('woff'); font-weight: normal; font-style: normal; }
+
 @font-face {
 	  font-family: "cafe24";
 	  src: url('../fonts/Cafe24Danjunghae.ttf');
@@ -1556,11 +1558,17 @@ header .header-logo a {
 	letter-spacing: .15rem;
 	margin: 0 0 0 .3rem;
 }
-
+@font-face {
+    font-family: 'ELAND_Nice_M';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/ELAND_Nice_M.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 .home-content-tablecell h1 {
-	font-family: 'Song Myung', serif;
+	font-family: 'ELAND_Nice_M', serif;
 	line-height: 1.5;
 	color: #FFFFFF;
+	font-weight: 50;
 }
 
 .home-content-tablecell .home-section-links {
