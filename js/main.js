@@ -359,3 +359,85 @@
  
 
 })(jQuery);
+
+
+
+function animation(){
+		   document.getElementById('credentials').innerHTML = `
+		   <div class="row narrow section-intro with-bottom-sep">
+   		<div class="col-twelve">
+   			<h3>Animation</h3>
+	   		<h1>애니메이션</h1>  			
+	   		
+	   		<p class="lead">와타시(쑻) 사실은 애니메이션도 좋아한다능... 이게 다 내가 봤던 애니메이션이라능...<span class="lead" style="color:blue;">매우 좋음</span>	
+			<span class="lead" style="color:green;">좋음</span>		
+			<span class="lead" style="color:orange;">보통</span>
+			<span class="lead" style="color:brown;">별로</span>	
+			<span class="lead"  style="color:black;">평가 거부</span></p>
+   		</div>   		
+   	</div> <!-- end row section-intro -->
+
+        <div class="box2" style="text-align: center; font-size: 2.5rem; font-family: 'Black Han Sans', sans-serif; line-height: 5rem;width:80%; margin:0 auto;">
+			<p style="text-decoration: none; font-size: 4.5rem; color:blue;">프리큐어 시리즈</p>
+            <p style="font-family : '고딕';">입☆덕☆계☆기입니다. 남주가 적은 걸 좋아하는 제 애니 평가의 기준이자 지금도 보는 시리즈입니다. 최애는 무인편, 예프파, 허그프리입니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">소녀종말여행</p>
+            <p style="font-family : '고딕';">개인적으로 좋아하는 애니메이션입니다. 철학과 개그 사이의 미묘한 긴장감을 놓치 않은 내용과 연출이 좋습니다. 하지만 동인지가 없으면 의미가 없습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">케모노프렌즈 1기</p>
+            <p style="font-family : '고딕';">보는 동안 즐거웠습니다. 한국어 더빙도 좋아합니다. 2기가 좋았다면 아직도 기억에 남았을테지요.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">프리코네 1기</p>
+            <p style="font-family : '고딕';">저런 종류의 게임은 깔지고 해보지도 않았지만 애니메이션은 재밌게 봤습니다. 그치만 캬루쨩 배신자잖아?</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:blue;">코노스바</p>
+            <p style="font-family : '고딕';">1기와 2기 모두 제 취향의 훌륭한 애니메이션이었습니다. 주연에 남주가 있는 애니메이션으로는 유일하게 매우 좋음 평가를 주고 싶습니다. 감독과 아쿠아와 작화의 환장의 콜라보가 기가 막혔습니다. 익스플로젼</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:black;">리제로</p>
+            <p style="font-family : '고딕';">잘 봤고 사실 여러모로 마음에는 들었지만 남주라 평가를 거부합니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:orange;">사카모토입니다만</p>
+            <p style="font-family : '고딕';">개그애니로서는 수작이라고 생각합니다. 컨셉도 그렇고 내용도 그렇고 꽤 괜찮지만 남주인데다가 다른 좋음 등급 애니메이션보다는 조금 별로인 것 같아서 보통등급입니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:orange;">무능한 나나</p>
+            <p style="font-family : '고딕';">1화가 너무나 충격적이었습니다만, 연출을 조금만 더 신경썼다면 훨씬 좋았을 것 같습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">괴롭히지 말아요, 나가토로양</p>
+            <p style="font-family : '고딕';">나가토로가 호불호가 갈린다는데, 전 호입니다. 물론 M은 아니고요. 타카기보다 선호하는 편이었는데 요새는 타카기가 더 좋습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:blue;">신세기 에반게리온</p>
+            <p style="font-family : '고딕';">에반게리온은 명작이었습니다. 특히 엔드오브에바의 강렬함과 파의 처절함을 좋아합니다. 파보다 엔드오브에바를 좀 더 선호하는 편입니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:brown;">BTOOOM!</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:brown;">학원묵시록</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:blue;">해피 슈가 라이프</p>
+            <p style="font-family : '고딕';">주제, 연출, 효과, 캐릭터성, 대사 무엇 하나 마음에 들지 않는 것이 없습니다. 치명적 유해물 사이에 백합 치유물로 시청에 전혀 부담이 없었으며 결말의 강렬함은 개인적으로 엔드오브에바, 마마마 반역의 이야기와 함께 가장 좋아합니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">보석의 나라</p>
+            <p style="font-family : '고딕';">개인적으로 케모노 프렌즈와 비슷한 느낌이 들었습니다. 캐릭터성과 내용도 좋지만, 무엇보다 3d 애니메이션으로서 훌륭한 영상미가 인상적입니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:black;">기생수</p>
+            <p style="font-family : '고딕';">주제와 함께 제목의 의미가 끝에 가서 밝혀진다는 십덕들이 좋아서 환장하는 클리셰가 훌륭했습니다. 하지만 남주니까 의미 없습니다. 평가 거부합니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:blue;">카구야님은 고백받고 싶어!</p>
+            <p style="font-family : '고딕';">러브 코미디로서는 가장 좋아하는 애니메이션입니다. 캐릭터성과 함께 내용의 치밀함, 짧고 가벼운 분위기와 함께 훌륭한 연출, 무엇보다 후지와라 서기가 마음에 들었습니다. 심심할때마다 보고 있습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">미래일기</p>
+            <p style="font-family : '고딕';">얀데레 무서워요.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">샤를로트/엔젤비트</p>
+            <p style="font-family : '고딕';">제가 보기에 둘 다 거기서 거기인 것 같습니다. 호불호 갈리고 불호가 좀 많은데, 전 둘 다 좀 감동적이라고 생각해서 좋음 평가 드립니다. 실제로는 보통과 좋음 사이의 어딘가죠.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:orange;">어나더</p>
+            <p style="font-family : '고딕';">공포 애니라는 생소한 장르를 잘 살린 수작입니다. 한 번 볼 가치가 있습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:orange;">사이다처럼 말이 톡톡 솟아올라</p>
+            <p style="font-family : '고딕';">내용도 뻔하고 갈등을 좀 욱여넣는 느낌이지만, 뇌 비우고 보기 좋은 청춘 연애물입니다. 저같은 모쏠 아다한테는 희망고문이죠. 죽어라 인싸들</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:black;">인류는 쇠퇴했습니다.</p>
+            <p style="font-family : '고딕';">이건 분명 봤는데 기억이 안나고 op의 딴딴따라~ 딴딴따라~ 하는 비트만 생각나서 평가가 불가능했습니다. 하지만 꽤 좋았던 걸로 기억합니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">마녀의 여행</p>
+            <p style="font-family : '고딕';">개인적으로 매우 좋음을 주고 싶었지만 2기가 안나왔으므로 좋음입니다. 각 에피소드 별 주제에 맞는 연출과 분위기, 특히 그 에피소드의 충격적인 연출이 인상적이었습니다. 무엇보다 남주가 없습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">러키☆스타</p>
+            <p style="font-family : '고딕';">이건 남주도 없고 개그도 내취향이고 다 좋았는데 코나타 볼 때마다 자꾸 지인 중 누군가가 생각나는 바람에 도저히 더 볼 수가 없었습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">청춘 돼지는 바니걸 선배의 꿈을 꾸지 않는다.</p>
+            <p style="font-family : '고딕';">만약 이 작품을 보셨다면 스스로가 십덕이라고 자부할 수 있을겁니다. 제목의 강렬함을 이겨낸 다음의 훌륭하고 짜임새 있는 내용, 개성 있는 캐릭터들이 좋은 작품입니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">어쨌든 귀여워</p>
+            <p style="font-family : '고딕';">저도 귀엽습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:orange;">우에노 선배는 서툴러</p>
+            <p style="font-family : '고딕';">전체적으로 사카모토랑 비슷한 평가입니다만, 남주가 고자고 여주가 심하게 나사가 빠진 게 문제입니다. 애니에서 보면 고자들한테 여자가 꼬이던데, 고자라 꼬이는지 여자가 꼬이는데 고자인건지 모르겠습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">불꽃소방대</p>
+            <p style="font-family : '고딕';">개인적으로 귀칼, 진격거, 나루토 수준은 아니지만 꽤 볼만했습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:blue;">마법소녀 마도카☆마기카</p>
+            <p style="font-family : '고딕';">제 인생에 있어 마지막 명작 애니이자 프리큐어 이후 가장 저를 불태웠던 애니였습니다. 프리큐어 같은 깜찍함 속에 에반게리온을 뛰어넘는 잔혹함과 해슈라를 집어삼키는 강렬한 엔딩, 마녀의 여행을 넘어서는 연출과 호무호무가 있었습니다. 개인적으로 그냥 명작 애니가 있고, 역사에 길이 남을 명작 애니가 있다면, 이건 후자라고 확신합니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">가브릴 드롭아웃</p>
+            <p style="font-family : '고딕';">캐릭터, 연출, 내용, 다 좋았습니다. 무엇보다 가브릴이 십덕 되기 이전과 이후의 저를 보는 느낌이 들어서 뭔가 몰입이 됐습니다. 비네도 귀엽고, 남주도 없고, 여러모로 제 취향의 애니메이션을 묻는다면 거론할만한 애니였습니다.</p>
+         </div>
+		   
+		   
+		   `;
+		   var offset = $("#credentials").offset();
+        $('html, body').animate({scrollTop : offset.top}, 400);
+	   }
