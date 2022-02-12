@@ -434,10 +434,49 @@ function animation(){
             <p style="font-family : '고딕';">제 인생에 있어 마지막 명작 애니이자 프리큐어 이후 가장 저를 불태웠던 애니였습니다. 프리큐어 같은 깜찍함 속에 에반게리온을 뛰어넘는 잔혹함과 해슈라를 집어삼키는 강렬한 엔딩, 마녀의 여행을 넘어서는 연출과 호무호무가 있었습니다. 개인적으로 그냥 명작 애니가 있고, 역사에 길이 남을 명작 애니가 있다면, 이건 후자라고 확신합니다.</p>
 			<p style="text-decoration: none; font-size: 4.5rem; color:green;">가브릴 드롭아웃</p>
             <p style="font-family : '고딕';">캐릭터, 연출, 내용, 다 좋았습니다. 무엇보다 가브릴이 십덕 되기 이전과 이후의 저를 보는 느낌이 들어서 뭔가 몰입이 됐습니다. 비네도 귀엽고, 남주도 없고, 여러모로 제 취향의 애니메이션을 묻는다면 거론할만한 애니였습니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:green;">플라워링 하트</p>
+            <p style="font-family : '고딕';">뽀로로를 제외하면 제가 처음으로 본 애니메이션입니다. 개인적으로 레전드히어로 삼국전, 미라큘러스와 함께 ebs가 수신료의 가치를 가장 훌륭하게 지켜냈을 때가 아닐까 생각됩니다. 개인적으로 아쉬운 부분이 없지는 않지만 연출, 내용 면에서 훌륭하고 제 취향에도 맞는 작품이었습니다. 3기까지 나와서 잘 끝맺었다면 허긋토 프리큐어 또는 그 이상의 작품이었으리라고 생각합니다.</p>
+			<p style="text-decoration: none; font-size: 4.5rem; color:orange;">경녀!!!!!</p>
+            <p style="font-family : '고딕';">십덕의 길에 들어서기도 전에 유튜브로 접한 애니메이션입니다. 이걸 거부감 없이 본걸 보면 전 이미 싹수가 노랬죠. 참고로 당시 전생슬, 투러브트러블 등도 봤습니다. 미친놈이지 내가</p>
          </div>
 		   
 		   
 		   `;
+	document.getElementById('portfolio').innerHTML = `
+<div class="row narrow section-intro with-bottom-sep">
+   		<div class="col-twelve">
+   			<h3>Project</h3>
+	   		<h1>프로젝트</h1>  			
+	   		
+	   		<p class="lead">진행한 프로젝트들입니다. 대회 참가용 프로젝트, 진행 중인 프로젝트, 소실된 프로젝트 등은 없습니다.</p>	   			
+   		</div>   		
+   	</div> <!-- end row section-intro -->
+
+        <div class="box2" style="text-align: center; font-size: 2.5rem; font-family: 'Black Han Sans', sans-serif; line-height: 5rem">
+            <a href="https://coshaman.github.io/Coogle/index.html" target="_blank" style="text-decoration: none; font-size: 4.5rem;"><span style="color: rgb(64, 129, 237, 1)">C</span><span style="color: rgb(228, 65, 52, 1)">o</span><span style="color: rgb(244, 183, 5, 1)">o</span><span style="color: rgb(64, 129, 237, 1)">g</span><span style="color: rgb(51, 163, 81, 1)">l</span><span style="color: rgb(228, 65, 52, 1)">e</span></a>
+            <p style="font-family : '고딕';">구글, 네이버, 다음, 픽사베이, SNS, 멜론 등의 검색엔진을 모은 사이트 입니다.</p>
+            <a href="https://coshaman.github.io/dorichat/index.html" target="_blank" style="text-decoration: none; font-size: 4.5rem;">도리 Chat</a>
+            <p style="font-family : '고딕';">심심해서 만든 채팅 프로그램 입니다. 간단한 채팅과 시간, 포인트, 검색, 로또, 가르치기 기능이 있습니다.</p>
+            <a href="https://coshaman.github.io/ajaeC/index.html" target="_blank" style="text-decoration: none; font-size: 5rem; font-family: webisfree; color: saddlebrown;">AjaeC</a>
+            <p style="font-family : '고딕';">아재 양성 사이트입니다. 아재개그 출석 체크, 상점, 아재 개그 스피드퀴즈, 도리 Chat으로 이루어져 있습니다.</p>
+            <a href="https://coshaman.github.io/testLove/" target="_blank" style="text-decoration: none; font-size: 5rem; color : #F781F3; font-family: 'Single Day', cursive;">짝사랑 테스트!</a>
+            <p style="font-family : '고딕';">모쏠은 외롭네요...그래서 만든 짝사랑 테스트 입니다.</p>
+            <a href="https://coshaman.github.io/hackertyper/" target="_blank" style="text-decoration: none; font-size: 5rem; color : #40FF00; font-family: webisfree, cursive;">HackerTyper</a>
+            <p style="font-family : '고딕';">개인 유튜브 촬영을 위해 만든 해커 타이퍼입니다. 속도 조절/테마 기능이 있고 엔터, esc를 눌러 해커가 된 기분을 낼 수도 있습니다.</p>
+            <a href="https://coshaman.github.io/book/" target="_blank" style="text-decoration: none; font-size: 5rem; color : saddlebrown; font-family: 'Black And White Picture', sans-serif;">독서기록장</a>
+            <p style="font-family : '고딕';">그동안 읽은 100권 이상의 도서에 대한 간단한 기록과 평점입니다.</p>
+            <a href="https://coshaman.github.io/testLove/" target="_blank" style="text-decoration: none; font-size: 5rem; color : black; font-family: 'Single Day', cursive;">중2병 문구 제조기!</a>
+            <p style="font-family : '고딕';">심심해서 짝사랑 테스트!를 재탕해봤습니다. 라노벨을 쓰고 계시다면 주문 영창에 활용하시기 좋겠군요.</p>
+<a href="https://coshaman.github.io/testrepository1/" target="_blank" style="text-decoration: none; font-size: 5rem; color : black; font-family: 'Single Day', cursive;">터미널 테마</a>
+<a href="https://coshaman.github.io/testrepository1/fun.html" target="_blank" style="text-decoration: none; font-size: 5rem; color : black; font-family: 'Single Day', cursive;">전화번호 입력기</a>
+<a href="https://coshaman.github.io/games/" target="_blank" style="text-decoration: none; font-size: 5rem; color : black; font-family: 'Single Day', cursive;">게임</a>
+<a href="https://coshaman.github.io/teamdelta/" target="_blank" style="text-decoration: none; font-size: 5rem; color : black; font-family: 'Single Day', cursive;">팀 델타</a>
+<a href="https://coshaman.github.io/memo/" target="_blank" style="text-decoration: none; font-size: 5rem; color : black; font-family: 'Single Day', cursive;">메모장</a>
+<a href="https://coshaman.github.io/keyboard/" target="_blank" style="text-decoration: none; font-size: 5rem; color : black; font-family: 'Single Day', cursive;">뭔지 모르겠음</a>
+<a href="https://coshaman.github.io/cupon/news.html" target="_blank" style="text-decoration: none; font-size: 5rem; color : black; font-family: 'Single Day', cursive;">낚시</a>
+<a href="https://coshaman.github.io/card/" target="_blank" style="text-decoration: none; font-size: 5rem; color : black; font-family: 'Single Day', cursive;">카드 생성기</a>
+
+        </div>`
 		   var offset = $("#credentials").offset();
         $('html, body').animate({scrollTop : offset.top}, 400);
 	   }
