@@ -438,6 +438,7 @@ function animation(){
             <p style="font-family : '고딕';">뽀로로를 제외하면 제가 처음으로 본 애니메이션입니다. 개인적으로 레전드히어로 삼국전, 미라큘러스와 함께 ebs가 수신료의 가치를 가장 훌륭하게 지켜냈을 때가 아닐까 생각됩니다. 개인적으로 아쉬운 부분이 없지는 않지만 연출, 내용 면에서 훌륭하고 제 취향에도 맞는 작품이었습니다. 3기까지 나와서 잘 끝맺었다면 허긋토 프리큐어 또는 그 이상의 작품이었으리라고 생각합니다.</p>
 			<p style="text-decoration: none; font-size: 4.5rem; color:orange;">경녀!!!!!</p>
             <p style="font-family : '고딕';">십덕의 길에 들어서기도 전에 유튜브로 접한 애니메이션입니다. 이걸 거부감 없이 본걸 보면 전 이미 싹수가 노랬죠. 참고로 당시 전생슬, 투러브트러블 등도 봤습니다. 미친놈이지 내가</p>
+<<<<<<< HEAD
 
 <p style="text-decoration: none; font-size: 4.5rem; color:green;">프리코네 2기</p>
             <p style="font-family : '고딕';">프리코네 2기는 제가 처음으로 기다리면서 본 2기 애니입니다. 중반부 스토리가 루즈한 감이 있었지만 세븐 크라운즈의 능력이 부각된 전투씬과 새로운 엔딩 루트는 훌륭했다고 생각합니다. 다만, 캬루쨩이 배빵을 날리지 않아 아쉽습니다.</p>
@@ -458,6 +459,8 @@ function animation(){
             <p style="font-family : '고딕';">시노부 귀엽다</p>
 <p style="text-decoration: none; font-size: 4.5rem; color:green;">속 오와리모노가타리/코요미모노가타리</p></div>
          </div>
+=======
+>>>>>>> c2bcf2674ab5bf23a762cc682b9877afbdc8b10b
          </div>
 		   
 		   
@@ -499,4 +502,8 @@ function animation(){
         </div>`
 		   var offset = $("#credentials").offset();
         $('html, body').animate({scrollTop : offset.top}, 400);
+<<<<<<< HEAD
 	   }
+=======
+	   }
+>>>>>>> c2bcf2674ab5bf23a762cc682b9877afbdc8b10b

@@ -1,5 +1,12 @@
+<<<<<<< HEAD
  Register -id -pw -email : register this game
  Save -filename : save the game
  Rank -show : show my rank
  Rank -upload : upload my score data
+=======
+ Register -id -pw -email : register this game
+ Save -filename : save the game
+ Rank -show : show my rank
+ Rank -upload : upload my score data
+>>>>>>> c2bcf2674ab5bf23a762cc682b9877afbdc8b10b
  Login -id -pw : login to this game
